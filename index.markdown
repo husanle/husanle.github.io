@@ -1,5 +1,5 @@
 ---
-title:husanle's website
+title: husanle's website
 layout: default
 ---
 
