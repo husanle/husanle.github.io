@@ -30,9 +30,10 @@ twitter_username: None
 github_username:  husanle
 
 # Build settings
-theme: pages-themes/hacker
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
