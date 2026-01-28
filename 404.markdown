@@ -4,7 +4,7 @@ layout: default
 ---
 <center> # 404 </center>
 
-## ** Page not found : **
+## **Page not found :**
 
 ## [The requested page could not be found.](husanle.github.io)
 
