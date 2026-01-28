@@ -2,7 +2,8 @@
 permalink: /404
 layout: default
 ---
-<center> # 404 </center>
+
+# 404
 
 ## **Page not found :**
 
