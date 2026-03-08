@@ -7,5 +7,5 @@ layout: default
 
 ## **Page not found :**
 
-## [The requested page could not be found.](husanle.github.io)
+## [The requested page could not be found.](..)
 
